@@ -1,6 +1,6 @@
 # Monopile-Fatigue-Estimation-From-Nonlinear-Waves-Using-Deep-Learning
 
-This is project 2 of the Hackathon in AI for Sustainability organised by the University of Hull Computer Science Department and Energy and Environment Institute.
+This is project 2 of the Hackathon in AI for Sustainability organised by the University of Hull Computer Science Department and Energy and Environment Institute. More details about the hackathon can be found [here](https://bda-hull.github.io/hackathon-ai+sus.html).
 
 This project is based around the development of a machine learning model (meta-model) to predict the damage fraction (D) of an example offshore wind turbine monopile. Here, the damage fraction defines the amount of damage (loss of structural integrity) the monopile incurs over a give period (1-hour) and is dependent of the following 'environmental' or 'metocean' (wind and wave) variables:
 
